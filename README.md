@@ -7,7 +7,7 @@ Foi desenvolvido como recurso didático para alunos brasileiros adultos que dese
 
 ## 🚀 Como jogar
 
-1. Acesse o site do jogo (link do Netlify em breve).  
+1. Acesse o jogo aqui 👉 [Pronúncia360 no Netlify](https://pronuncia360.netlify.app)  
 2. Escolha o **padrão de pronúncia** que deseja praticar (ex: Vogais, J, R/RR, LL/Y).  
 3. Defina a **dificuldade** e o número de rodadas.  
 4. Clique em **Iniciar jogo**.  
@@ -33,14 +33,6 @@ Foi desenvolvido como recurso didático para alunos brasileiros adultos que dese
 
 ---
 
-## 🔗 Link do jogo
-
-👉 [Acesse no Netlify](https://pronuncia360.netlify.app) _(em breve)_  
-
----
-
 ## 👩‍🏫 Autoria
 
-Projeto criado por **Júnia Maria Ananias de Sillos Rodrigues**, professora de espanhol para brasileiros adultos.  
-
-
+Projeto criado por **Júnia Maria Ananias de Sillos Rodrigues**, professora de espanhol.  
